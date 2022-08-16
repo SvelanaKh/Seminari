@@ -92,13 +92,16 @@
 // Напишите программу, которая принимает на вход число и проверяет, кратно ли оно одновременно 7 и 23.
 //  14 -> нет 46 -> нет 161 -> да
 
-Console.Write("Введите число: ");
-int Number = Convert.ToInt32(Console.ReadLine());
-int div1 = Number % 7;
-int div2 = Number % 23;
-if (div1 == 0 && div2 == 0) System.Console.WriteLine("да");
-else System.Console.WriteLine("нет");
+// Console.Write("Введите число: ");
+// int Number = Convert.ToInt32(Console.ReadLine());
+// int div1 = Number % 7;
+// int div2 = Number % 23;
+// if (div1 == 0 && div2 == 0) System.Console.WriteLine("да");
+// else System.Console.WriteLine("нет");
 
 
 // "и" && одновременное выполнение условий
 // "или" || выполнение одного из условий
+
+
+
