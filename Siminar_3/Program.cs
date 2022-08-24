@@ -55,17 +55,17 @@
 // 2 -> 1,4
 
 
-Console.WriteLine("Введите число: ");
-int num = Convert.ToInt32(Console.ReadLine());
+//Console.WriteLine("Введите число: ");
+//int num = Convert.ToInt32(Console.ReadLine());
 // for (int i = 1; i <= num; i++)
 // {
 //     Console.Write(Math.Pow(i, 2) +"\t");
 // }
 //или
-int i = 1;
-while (i <= num)
-{
-    Console.WriteLine(Math.Pow(i, 2) + "\t");
-    i++;
-}
+// int i = 1;
+// while (i <= num)
+// {
+//     Console.WriteLine(Math.Pow(i, 2) + "\t");
+//     i++;
+// }
 
